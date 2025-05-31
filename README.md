@@ -7,7 +7,7 @@ This is an interactive Tableau dashboard that visualizes Bollywood movie ratings
 
 ## 🖼 Preview
 
-![Bollywood Movies Rating Dashboard](Bollywood Movies rating.png)
+![Bollywood Movies Rating Dashboard](tableau-dashboard.png.png)
 
 ## 🛠 Tech Stack
 
